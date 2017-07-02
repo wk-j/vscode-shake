@@ -1,0 +1,6 @@
+out
+node_modules
+.shake
+_build
+bin
+obj
